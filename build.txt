@@ -1,0 +1,4 @@
+displayName = Guaranteed Jungle Rose Drop
+author = LongRamen
+version = 1.0
+includeSource = true

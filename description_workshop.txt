@@ -1,0 +1,3 @@
+In vanilla, Jungle Roses only have a 5% chance of dropping from the already hard to find jungle rose plants.
+
+This mod allows you to set the drop rate to 100%, or to a custom rate in the mod's settings.
