@@ -1,14 +1,14 @@
 Configs: {
 	MainConfig: {
+		DisplayName: Main Config
+
 		JungleRoseDropChance: {
+			Label: Jungle Rose Drop Chance
 			Tooltip:
 				'''
 				Default value: 1
 				The vanilla drop chance is 0.05
 				'''
-			Label: Jungle Rose Drop Chance
 		}
-
-		DisplayName: Main Config
 	}
 }
