@@ -3,3 +3,5 @@ In vanilla, Jungle Roses only have a 5% chance of dropping from the already hard
 This mod allows you to set the drop rate to 100%, or to a custom rate in the mod's settings.
 
 Github: https://github.com/LongRamen/GuaranteedJungleRose
+
+(If you want to contribute localisation, create a pull request on the above repo or leave a comment on this workshop item.)

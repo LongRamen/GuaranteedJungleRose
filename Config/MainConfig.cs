@@ -3,8 +3,9 @@ using Terraria.ModLoader.Config;
 
 namespace GuaranteedJungleRose.Config;
 
-public class MainConfig : ModConfig
+internal class MainConfig : ModConfig
 {
+    public static MainConfig Instance;
     public override ConfigScope Mode => ConfigScope.ServerSide;
 
     [Range(0f, 1f)]
